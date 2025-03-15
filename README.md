@@ -6,19 +6,19 @@
 
 
 
-- 🔭 I’m currently working on **CyberShark – IT Troubleshooting App**
-
 - 🌱 I’m currently learning **Cybersecurity defense strategies, Advanced Networking, and Ethical Hacking.**
-
-- 👯 I’m looking to collaborate on **Cybersecurity & IT Support Projects**
-
+  
 - 🤝 I’m looking for help with **Likeminded cybersecurity and tech enthusiasts**
 
-- 👨‍💻 All of my projects are available at [ricoswabii.com](https://ricoswabii.github.io/cybershark777/)
+-  🔭 I’m currently working on **CyberShark – IT Troubleshooting App**
+
+- 👯 I’m looking to collaborate on **Cybersecurity & IT Support Projects**
 
 - 💬 Ask me about **Cybersecurity, Networking, IT Support & Digital Marketing**
 
 - ⚡ Fun fact **I talk to my laptop more than I talk to people! 😆**
+
+- 👨‍💻 All of my projects are available soon at [ricoswabii.com](https://ricoswabii.github.io/cybershark777/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
