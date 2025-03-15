@@ -1,5 +1,25 @@
 <p align="center"><img src="./image1.png" alt="Header"></p>
+<h1 align="center">
+  Hello 👋 <br>
+  <div style="display: inline-block; padding-left: 500px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=41ABFF&width=435&lines=I'm+Rico+Fornes" alt="Typing SVG" />
+    </a>
+  </div>
+</h1>
+
+
+
+
 <h1 align="center">Hello 👋 <br> I'm  Rico Fornes </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=41ABFF&width=435&lines=I'm+Rico+Fornes" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 <h3 align="center">A Cybersecurity & Tech Enthusiast</h3>
 <img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="400"  align="right" style="border-radius: 50px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
