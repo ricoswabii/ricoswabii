@@ -1,4 +1,4 @@
-<p align="center"><img src="./123.png" alt="Header"></p>
+<p align="center"><img src="./image1.png" alt="Header"></p>
 <h1 align="center">Hi 👋, I'm Rico Fornes</h1>
 <h3 align="center">A Cybersecurity & Tech Enthusiast</h3>
 
