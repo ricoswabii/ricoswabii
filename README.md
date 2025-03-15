@@ -1,13 +1,15 @@
 <p align="center"><img src="./image1.png" alt="Header"></p>
 <h1 align="center">
-  Hello 👋 <br> 
+  Hello 👋<br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=41ABFF&width=250&lines=I'm+Rico+Fornes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&width=250&lines=I'm+Rico+Fornes" alt="Typing SVG" style="display:block; margin: 0; padding: 0; border: none; line-height: 0;" />
   </a>
 </h1>
-<h3 align="center">A Cybersecurity & Tech Enthusiast</h3>
-<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="400"  align="right" style="border-radius: 50px;">
+<h3 align="center" style="margin-top: -8px; padding: 0; border: none; line-height: 1;">A Cybersecurity & Tech Enthusiast</h3>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
+<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="400"  align="right" style="border-radius: 50px;">
 
 
 
