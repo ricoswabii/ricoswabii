@@ -1,7 +1,9 @@
 <p align="center"><img src="./image1.png" alt="Header"></p>
 <h1 align="center">
   Hello 👋<br>
+ <div style="pointer-events: none;">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&width=250&lines=I'm+Rico+Fornes" alt="Typing SVG" style="display:block; margin: 0; padding: 0; border: none; line-height: 0;" />
+</div>
 
 </h1>
 <h3 align="center" style="margin-top: -8px; padding: 0; border: none; line-height: 1;">A Cybersecurity & Tech Enthusiast</h3>
