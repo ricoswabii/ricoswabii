@@ -1,4 +1,4 @@
-![Header](./image.png)
+<p align="center"><img src="./image.png" alt="Header"></p>
 ## Hi there 👋
 
 <!--
