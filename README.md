@@ -1,5 +1,5 @@
 <p align="center"><img src="./image1.png" alt="Header"></p>
-<h1 align="center">Hi 👋, I'm Rico Fornes</h1>
+<h1 align="center">Hello 👋 <br> I'm  Rico Fornes </h1>
 <h3 align="center">A Cybersecurity & Tech Enthusiast</h3>
 <img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="400"  align="right" style="border-radius: 50px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
