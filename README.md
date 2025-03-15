@@ -6,9 +6,8 @@
   </a> 
 </h1>
 <h3 align="center" style="margin-top: -8px; padding: 0; border: none; line-height: 1;">A Cybersecurity & Tech Enthusiast</h3>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
-<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="300"  align="right" style="border-radius: 50px;">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
+<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="400"  align="right" style="border-radius: 50px;">
 
 
 
