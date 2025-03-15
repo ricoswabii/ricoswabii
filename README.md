@@ -1,20 +1,26 @@
 <p align="center"><img src="./image.png" alt="Header"></p>
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rico Fornes</h1>
+<h3 align="center">A Cybersecurity & Tech Enthusiast</h3>
 
-<!--
-**ricoswabii/ricoswabii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **CyberShark – IT Troubleshooting App**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cybersecurity defense strategies, including Blue Team operations, SIEM, IPS, Advanced Networking, and Ethical Hacking.**
+
+- 👯 I’m looking to collaborate on **Cybersecurity & IT Support Projects**
+
+- 🤝 I’m looking for help with **Likeminded cybersecurity and tech enthusiasts**
+
+- 👨‍💻 All of my projects are available at [ricoswabii.com](https://ricoswabii.github.io/cybershark777/)
+
+- 💬 Ask me about **Cybersecurity, Networking, IT Support & Digital Marketing**
+
+- 📫 How to reach me **fornes.rico77@gmail.com**
+
+- ⚡ Fun fact **I talk to my laptop more than I talk to people! 😆**
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ricoswabii) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ricoswabii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ricoswabii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybershark77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fornes.rico77@gmail.com) 
