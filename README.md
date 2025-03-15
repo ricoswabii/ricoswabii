@@ -30,7 +30,7 @@
 <a href="https://reddit.com/user/ricoswabii" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reddit.svg" alt="cybershark77" height="30" width="40" /></a>
 
 </p>
-
+<br>
 
 # 💻 Tech Stack:
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,13 +62,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ricoswabii&theme=dark&hide_border=false)<br/>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ricoswabii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ricoswabii&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ricoswabii&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
+</p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ricoswabii&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
