@@ -4,11 +4,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&width=250&lines=I'm+Rico+Fornes" alt="Typing SVG" style="display:block; margin: 0; padding: 0; border: none; line-height: 0;" />
   </a>
+  
 </h1>
 <h3 align="center" style="margin-top: -8px; padding: 0; border: none; line-height: 1;">A Cybersecurity & Tech Enthusiast</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricoswabii&label=Profile%20views&color=0e75b6&style=flat" alt="ricoswabii" /> </p>
-<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="500"  align="right" style="border-radius: 50px;">
+<img src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/main/wand.png" alt="coding" width="500"  align="right" style="border-radius: 500px;">
 
 
 
