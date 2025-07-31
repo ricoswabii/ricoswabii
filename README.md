@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I talk to my laptop more than I talk to people! 😆**
 
-- 👨‍💻 All of my projects are available soon at [ricoswabii.com](https://ricoswabii.github.io/cybershark777/)
+- 👨‍💻 All of my projects are available soon at [ricoswabii.me](https://ricoswabii.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
