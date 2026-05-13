@@ -69,11 +69,6 @@
 
 
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ricoswabii&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ricoswabii&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
-</p>
 
 ---
 <p>
