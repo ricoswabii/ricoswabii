@@ -74,6 +74,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricoswabii&show_icons=true&locale=en&layout=compact&langs_count=5" alt="ricoswabii" />
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
