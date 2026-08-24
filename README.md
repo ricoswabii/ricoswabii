@@ -159,38 +159,27 @@ Some areas I'm exploring:
 </p>
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/ricoswabii">
-  <img src="https://cdn.simpleicons.org/github/181717" width="24" alt="GitHub">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:fornes.rico77@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email">
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/rico-fornes">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/ricoswabii">
-  <img src="https://cdn.simpleicons.org/x/000000" width="24" alt="X">
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/cybershark77">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" alt="Instagram">
-</a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/c/cybershark77">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="24" alt="YouTube">
-</a>
-&nbsp;&nbsp;
-<a href="https://reddit.com/user/ricoswabii">
-  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="24" alt="Reddit">
-</a>
-
+  <a href="https://github.com/ricoswabii">
+    <img src="https://skillicons.dev/icons?i=github" width="50">
+  </a>
+  <a href="https://linkedin.com/in/rico-fornes">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50">
+  </a>
+  <a href="mailto:fornes.rico77@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50">
+  </a>
+  <a href="https://instagram.com/cybershark77">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50">
+  </a>
+  <a href="https://youtube.com/c/cybershark77">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50">
+  </a>
+  <a href="https://reddit.com/user/ricoswabii">
+    <img src="https://skillicons.dev/icons?i=reddit" width="50">
+  </a>
 </p>
 
 <br>
