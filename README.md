@@ -119,23 +119,25 @@ Some areas I'm exploring:
 
 ---
 
-## 📡 GitHub Status
-## 📈 GitHub Streak
+<h2 align="center">🐍 GitHub Contributions</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=default"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=default"
-    alt="ricoswabii GitHub Streak"
-  />
-</picture
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ricoswabii/ricoswabii/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ricoswabii/ricoswabii/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ricoswabii/ricoswabii/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
