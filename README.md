@@ -40,51 +40,61 @@ Currently focused on:
 
 ## ⚙️ Technical Stack
 
+## ⚙️ Technical Stack
+
 ### `SYSTEMS`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" alt="Systems">
-</p>
-
-### `SECURITY & NETWORKING`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark,cisco,docker" alt="Security and networking">
-</p>
-
-<p align="center">
-  <sub>Wireshark · Cisco · Snort · Splunk · Elasticsearch · Active Directory</sub>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux">
+  <img src="https://cdn.simpleicons.org/windows/0078D6" width="42" alt="Windows">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash">
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="42" alt="PowerShell">
 </p>
 
 ### `DEVELOPMENT`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,git,github" alt="Development">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python">
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5">
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="42" alt="CSS3">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub">
 </p>
 
-### `TOOLS & DESIGN`
+### `SECURITY & NETWORKING`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress" alt="Tools and design">
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="42" alt="Cisco">
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="42" alt="Wireshark">
+  <img src="https://cdn.simpleicons.org/splunk/000000" width="42" alt="Splunk">
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="42" alt="Elasticsearch">
+  <img src="https://cdn.simpleicons.org/snort/F00000" width="42" alt="Snort">
+  <img src="https://cdn.simpleicons.org/microsoft/737373" width="42" alt="Microsoft / Active Directory">
+</p>
+
+### `INFRASTRUCTURE`
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="42" alt="VirtualBox">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" alt="Docker">
+</p>
+
+### `DESIGN & PRODUCTIVITY`
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="42" alt="WordPress">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" alt="Figma">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" alt="Canva">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="42" alt="Adobe Photoshop">
 </p>
 
 <p align="center">
-  <sub>Canva · Adobe Photoshop · Hootsuite · VirtualBox</sub>
+  <sub>
+    Linux · Networking · Cybersecurity · Development · Infrastructure · Design
+  </sub>
 </p>
 
----
-
-## 🔭 Currently Working On
-
-<p align="center">
-
-### 🦈 CyberShark
-
-**IT Troubleshooting & Support Application**
-
-A practical project focused on helping users diagnose common IT problems and find troubleshooting solutions.
-
-</p>
 
 ---
 
