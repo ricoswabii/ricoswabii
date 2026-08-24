@@ -151,11 +151,11 @@ Currently focused on:
   <a href="https://github.com/ricoswabii">
     <img src="https://skillicons.dev/icons?i=github" width="50">
   </a>
-  <br>
+  <p></p>
   <a href="https://linkedin.com/in/rico-fornes">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50">
   </a> 
-  <br>
+  <p></p>
   <a href="mailto:fornes.rico77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50">
   </a>
