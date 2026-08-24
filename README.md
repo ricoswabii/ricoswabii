@@ -120,26 +120,22 @@ Some areas I'm exploring:
 ---
 
 ## 📡 GitHub Status
+## 📈 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ricoswabii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Rico's GitHub Stats"
-    height="180"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=default"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoswabii&layout=compact&hide_border=true&langs_count=6"
-    alt="Rico's Top Languages"
-    height="180"
+    src="https://streak-stats.demolab.com?user=ricoswabii&hide_border=true&theme=default"
+    alt="ricoswabii GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ricoswabii&hide_border=true"
-    alt="Rico's GitHub Streak"
-  />
-</p>
+</picture
 
 ---
 
