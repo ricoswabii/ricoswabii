@@ -118,8 +118,10 @@ Currently focused on:
 
 `Technical experimentation` · `Digital forensics`
 
-</p>
 > **Learn → Build → Break → Investigate → Document**
+
+</p>
+
 
 ---
 <h2 align="center">🐍 GitHub Contributions</h2>
