@@ -55,7 +55,7 @@ Currently focused on:
 ### `DEVELOPMENT`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,git,github,vscode" alt="Development">
+  <img src="https://skillicons.dev/icons?i=python,php,react,html,css,git,github,vscode," alt="Development">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Currently focused on:
 ### `SECURITY & NETWORKING`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,cisco,wireshark,linux,elasticsearch" alt="Security and Networking">
+  <img src="https://skillicons.dev/icons?i=wireshark,kali,linux,elasticsearch,cisco" alt="Security and Networking">
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ Currently focused on:
 ### `INFRASTRUCTURE`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,virtualbox,linux" alt="Infrastructure">
+  <img src="https://skillicons.dev/icons?i=docker,linux,virtualbox" alt="Infrastructure">
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Currently focused on:
 
 `SOC Operations` · `SIEM` · `Linux Administration` · `Digital forensics` 
 
-`Technical experimentation` · `Digital forensics`
+`Technical experimentation`
 
 > **Learn → Build → Break → Investigate → Document**
 
