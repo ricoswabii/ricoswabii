@@ -118,7 +118,6 @@ Some areas I'm exploring:
 > **Learn → Build → Break → Investigate → Document**
 
 ---
-
 <h2 align="center">🐍 GitHub Contributions</h2>
 
 <p align="center">
@@ -138,7 +137,6 @@ Some areas I'm exploring:
     />
   </picture>
 </p>
-
 ---
 
 ## 🌐 Connect
