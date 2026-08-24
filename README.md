@@ -119,10 +119,26 @@ Some areas I'm exploring:
 
 ---
 
-## 📊 GitHub
+## 📡 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoswabii&layout=compact&langs_count=6&hide_border=true" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ricoswabii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Rico's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoswabii&layout=compact&hide_border=true&langs_count=6"
+    alt="Rico's Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ricoswabii&hide_border=true"
+    alt="Rico's GitHub Streak"
+  />
 </p>
 
 ---
