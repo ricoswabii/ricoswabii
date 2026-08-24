@@ -171,15 +171,7 @@ Some areas I'm exploring:
   <a href="mailto:fornes.rico77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50">
   </a>
-  <a href="https://instagram.com/cybershark77">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50">
-  </a>
-  <a href="https://youtube.com/c/cybershark77">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50">
-  </a>
-  <a href="https://reddit.com/user/ricoswabii">
-    <img src="https://skillicons.dev/icons?i=reddit" width="50">
-  </a>
+  
 </p>
 
 <br>
