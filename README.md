@@ -112,29 +112,13 @@ Currently focused on:
 
 <p align="center">
 
-`Cybersecurity Defense` · `Advanced Networking` · `Ethical Hacking`
+`Cybersecurity Defense` · `Advanced Networking` · `IT troubleshooting`
 
-`SOC Operations` · `SIEM` · `Linux Administration`
+`SOC Operations` · `SIEM` · `Linux Administration` · `Digital forensics` 
+
+`Technical experimentation` · `Digital forensics`
 
 </p>
-
----
-
-## 🧪 Research & Projects
-
-I enjoy building projects and documenting what I learn through hands-on experimentation.
-
-Some areas I'm exploring:
-
-* 🔐 Cybersecurity research
-* 🛡️ Blue Team / SOC workflows
-* 📡 Network monitoring
-* 🐧 Linux administration
-* 🔎 Digital forensics
-* ⚙️ Security automation
-* 🧰 IT troubleshooting
-* 🧠 Technical experimentation
-
 > **Learn → Build → Break → Investigate → Document**
 
 ---
@@ -165,21 +149,15 @@ Some areas I'm exploring:
   <a href="https://github.com/ricoswabii">
     <img src="https://skillicons.dev/icons?i=github" width="50">
   </a>
+  <br>
   <a href="https://linkedin.com/in/rico-fornes">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-  </a>
+  </a> 
+  <br>
   <a href="mailto:fornes.rico77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50">
   </a>
   
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://ricoswabii.github.io/">
-    <strong>↗ Visit my portfolio</strong>
-  </a>
 </p>
 
 <br>
